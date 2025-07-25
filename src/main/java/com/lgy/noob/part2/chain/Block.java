@@ -1,7 +1,7 @@
-package com.lgy.part2.chain;
+package com.lgy.noob.part2.chain;
 
-import com.lgy.part2.trade.Transaction;
-import com.lgy.util.StringUtil;
+import com.lgy.noob.part2.trade.Transaction;
+import com.lgy.noob.util.StringUtil;
 
 import java.util.ArrayList;
 

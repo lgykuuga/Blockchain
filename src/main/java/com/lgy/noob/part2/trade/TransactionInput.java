@@ -1,4 +1,4 @@
-package com.lgy.part2.trade;
+package com.lgy.noob.part2.trade;
 
 /**
  * @author Johnson

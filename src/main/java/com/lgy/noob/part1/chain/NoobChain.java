@@ -1,4 +1,4 @@
-package com.lgy.part1.chain;
+package com.lgy.noob.part1.chain;
 
 import com.google.gson.GsonBuilder;
 

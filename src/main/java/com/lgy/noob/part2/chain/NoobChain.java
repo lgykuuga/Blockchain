@@ -1,9 +1,9 @@
-package com.lgy.part2.chain;
+package com.lgy.noob.part2.chain;
 
-import com.lgy.part2.trade.Transaction;
-import com.lgy.part2.trade.TransactionInput;
-import com.lgy.part2.trade.TransactionOutput;
-import com.lgy.part2.trade.Wallet;
+import com.lgy.noob.part2.trade.Transaction;
+import com.lgy.noob.part2.trade.TransactionInput;
+import com.lgy.noob.part2.trade.TransactionOutput;
+import com.lgy.noob.part2.trade.Wallet;
 
 import java.security.Security;
 import java.util.ArrayList;

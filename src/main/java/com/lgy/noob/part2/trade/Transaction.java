@@ -1,7 +1,7 @@
-package com.lgy.part2.trade;
+package com.lgy.noob.part2.trade;
 
-import com.lgy.part2.chain.NoobChain;
-import com.lgy.util.StringUtil;
+import com.lgy.noob.part2.chain.NoobChain;
+import com.lgy.noob.util.StringUtil;
 
 import java.security.PrivateKey;
 import java.security.PublicKey;

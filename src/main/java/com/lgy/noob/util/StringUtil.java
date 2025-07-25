@@ -1,4 +1,4 @@
-package com.lgy.util;
+package com.lgy.noob.util;
 
 import java.math.BigInteger;
 import java.security.*;

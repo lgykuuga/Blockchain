@@ -1,6 +1,6 @@
-package com.lgy.part2.trade;
+package com.lgy.noob.part2.trade;
 
-import com.lgy.part2.chain.NoobChain;
+import com.lgy.noob.part2.chain.NoobChain;
 
 import java.security.*;
 import java.security.spec.ECGenParameterSpec;
